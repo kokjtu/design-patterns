@@ -2,9 +2,8 @@ package main
 
 import (
 	"fmt"
+	"go-singleton/singleton"
 	"time"
-
-	"./singleton"
 )
 
 func main() {
